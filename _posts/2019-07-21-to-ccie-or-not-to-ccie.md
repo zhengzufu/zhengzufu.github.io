@@ -18,12 +18,3 @@ Combine that with my propensity for flagging motivation when the going gets toug
 During those three months, I will try to study as much as possible. Initially, maybe only ~10-15 hours a week. But by the end of three months, I hope to have ramped that up to ~20-25 hours a week, if not more. I feel like this would be the minimum required work-rate (most likely for several months to a year) before I would even consider attempting the vaunted CCIE Lab exam. If I'm unable to develop that level of discipline within three months, then I probably don't want it enough and would just be setting myself up for failure. Conversely, if I _have_ built my study routine to that level by then, I'm probably in with a shot, and will make a full commitment to the cause.
 
 Let the trial begin!
-
-
-
-
-
-
-
-
-
